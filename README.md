@@ -1,7 +1,7 @@
 # CSGOInjector
 Bypass CSGO Trusted Mode
 
-# How to use
+# How to use 
 1. Run CSGO
 2. Run CSGOInjector
 3. Select DLL

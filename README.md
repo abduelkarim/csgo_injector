@@ -1,5 +1,6 @@
 # CSGOInjector
 Bypass CSGO Trusted Mode
+Vac Undetected 
 
 # How to use 
 1. Run CSGO
